@@ -13,7 +13,9 @@ This is my Final Project that I made for Microsoft Future Ready Internship and I
  ![image](https://user-images.githubusercontent.com/111657451/185761913-6563448d-c47a-4d74-b97d-498df463d0a3.png)
 # Agent section of website - 
 ![image](https://user-images.githubusercontent.com/111657451/185761936-fad311bc-6614-4793-856b-9e3119d67e80.png)
-# Blog  section where You can see our Blog  of -
+# Blog  section where You can see our Blog  of website  -
+![image](https://user-images.githubusercontent.com/111657451/185762345-8535c0d2-b345-4dc5-a4b4-9ff7cafd7437.png)
+
 # Agent section og website - 
 ![image](https://user-images.githubusercontent.com/111657451/185761936-fad311bc-6614-4793-856b-9e3119d67e80.png)
  # Gallery where Our Some of the Best Pictures are - 
